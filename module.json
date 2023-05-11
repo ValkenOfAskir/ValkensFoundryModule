@@ -26,6 +26,6 @@
     ]
   },
   "url": "https://github.com/ValkenOfAskir/ValkensFoundryModule",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://github.com/ValkenOfAskir/ValkensFoundryModule/releases/download/1.0.0/module.json",
+  "download": "https://github.com/ValkenOfAskir/ValkensFoundryModule/releases/download/1.0.0/ValkensFoundryModule.zip"
 }

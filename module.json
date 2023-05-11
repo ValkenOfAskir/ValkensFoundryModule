@@ -2,8 +2,8 @@
   "id": "valkens-foundry-module",
   "name": "valkens-foundry-module",
   "title": "Valkens Foundry Module",
-  "description": "",
-  "version": "0.1",
+  "description": "Just a small module containing changes made to the 5e system, used for my Dungeons & Dragons games.",
+  "version": "1.0.0",
   "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "10",
@@ -24,5 +24,8 @@
         "id": "dnd5e"
       }
     ]
-  }
+  },
+  "url": "https://github.com/ValkenOfAskir/ValkensFoundryModule",
+  "manifest": "",
+  "download": ""
 }

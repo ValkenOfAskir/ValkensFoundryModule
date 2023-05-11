@@ -1,0 +1,28 @@
+{
+  "id": "valkens-foundry-module",
+  "name": "valkens-foundry-module",
+  "title": "Valkens Foundry Module",
+  "description": "",
+  "version": "0.1",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "author": "Valken",
+  "authors": [
+    {
+      "name": "Valken"
+    }
+  ],
+  "scripts": [
+    "scripts/FeatureTypes.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e"
+      }
+    ]
+  }
+}

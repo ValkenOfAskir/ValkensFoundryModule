@@ -16,7 +16,7 @@
     }
   ],
   "scripts": [
-    "scripts/FeatureTypes.js"
+    "scripts/WorldScripts.js"
   ],
   "relationships": {
     "systems": [

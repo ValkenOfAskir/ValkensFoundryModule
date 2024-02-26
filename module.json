@@ -3,11 +3,11 @@
   "name": "valkens-foundry-module",
   "title": "Valkens Foundry Module",
   "description": "Just a small module containing changes made to the 5e system, used for my Dungeons & Dragons games.",
-  "version": "1.1.0",
-  "compatibleCoreVersion": "10",
+  "version": "1.1.1",
+  "compatibleCoreVersion": "11",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "11"
   },
   "author": "Valken",
   "authors": [
@@ -26,6 +26,6 @@
     ]
   },
   "url": "https://github.com/ValkenOfAskir/ValkensFoundryModule",
-  "manifest": "https://github.com/ValkenOfAskir/ValkensFoundryModule/releases/download/1.1.0/module.json",
-  "download": "https://github.com/ValkenOfAskir/ValkensFoundryModule/releases/download/1.1.0/ValkensFoundryModule.zip"
+  "manifest": "https://github.com/ValkenOfAskir/ValkensFoundryModule/releases/download/1.1.1/module.json",
+  "download": "https://github.com/ValkenOfAskir/ValkensFoundryModule/releases/download/1.1.1/ValkensFoundryModule.zip"
 }
